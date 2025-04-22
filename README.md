@@ -1,2 +1,3 @@
 # sandesh-demo
-This is my first repo.
+This is my first git repositry.
+Author-Sandesh Tiwari
